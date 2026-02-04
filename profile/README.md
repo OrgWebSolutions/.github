@@ -1,13 +1,13 @@
-# OrgWebSolutions
+# Prefetch India
 
-**OrgWebSolutions** is an open-source organization focused on building scalable, modern, and practical web-based solutions.  
+**Prefetch India** is an open-source organization focused on building scalable, modern, and practical web-based solutions.  
 Our mission is to encourage collaboration, learning, and innovation through high-quality open-source projects.
 
 ---
 
 ## 🌐 About Us
 
-OrgWebSolutions is a community-driven initiative where developers, designers, and technology enthusiasts collaborate to create impactful software solutions.  
+Prefetch India is a community-driven initiative where developers, designers, and technology enthusiasts collaborate to create impactful software solutions.  
 We believe in open knowledge, transparent development, and continuous improvement.
 
 ---
@@ -42,4 +42,4 @@ No contribution is too small.
 1. Fork the repository you want to contribute to
 2. Clone your fork locally
    ```bash
-   git clone https://github.com/OrgWebSolutions/<repository-name>.git
+   git clone https://github.com/PrefetchIndia/<repository-name>.git
